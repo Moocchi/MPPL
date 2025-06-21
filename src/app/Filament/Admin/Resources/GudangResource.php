@@ -61,7 +61,8 @@ class GudangResource extends Resource
                     ->searchable(),
                 Tables\Columns\TextColumn::make('nama_barang')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('jenis_barang'),
+                Tables\Columns\TextColumn::make('jenis_barang')
+                    ->sortable(),
                 Tables\Columns\TextColumn::make('stok')
                     ->numeric()
                     ->sortable(),
