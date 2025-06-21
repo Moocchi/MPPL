@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Index - Consulting Bootstrap Template</title>
+    <title>PT. Sanitary Supply </title>
     <meta name="description" content="">
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('front/assets/img/favicon.png') }}" rel="icon">
+    <link href="{{ asset('front/assets/img/icon.png') }}" rel="icon">
     <link href="{{ asset('front/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
     <!-- Fonts -->
@@ -58,7 +58,7 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-            <a class="btn-getstarted" href="{{ url('/admin') }}">Get Started</a>
+            <a class="btn-getstarted" href="{{ url('/admin') }}">Login</a>
 
         </div>
     </header>
@@ -73,8 +73,8 @@
                     <i class="bi bi-geo-alt icon"></i>
                     <div class="address">
                         <h4>Address</h4>
-                        <p>A108 Adam Street</p>
-                        <p>New York, NY 535022</p>
+                        <p>Mustika Tigaraksa Blok F 9 N0.20</p>
+                        <p>Tigaraksa, 125720</p>
                         <p></p>
                     </div>
 
@@ -85,8 +85,8 @@
                     <div>
                         <h4>Contact</h4>
                         <p>
-                            <strong>Phone:</strong> <span>+1 5589 55488 55</span><br>
-                            <strong>Email:</strong> <span>info@example.com</span><br>
+                            <strong>Phone:</strong> <span>+62 838-5697-7357</span><br>
+                            <strong>Email:</strong> <span>sanitary@supply.com/span><br>
                         </p>
                     </div>
                 </div>
@@ -116,10 +116,10 @@
         </div>
 
         <div class="container copyright text-center mt-4">
-            <p>© <span>Copyright</span> <strong class="px-1 sitename">Consulting.</strong> <span>All Rights
+            <p>© <span>Copyright</span> <strong class="px-1 sitename">PioWarrior Kampunk.</strong> <span>All Rights
                     Reserved</span></p>
             <div class="credits">
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by <a href="https://github.com/piowarior">PioWarrior Kampunk</a>
             </div>
         </div>
 
