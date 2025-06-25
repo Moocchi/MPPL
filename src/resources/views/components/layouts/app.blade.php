@@ -86,7 +86,7 @@
                         <h4>Contact</h4>
                         <p>
                             <strong>Phone:</strong> <span>+62 838-5697-7357</span><br>
-                            <strong>Email:</strong> <span>sanitary@supply.com/span><br>
+                            <strong>Email:</strong> <span>sanitary@supply.com</span><br>
                         </p>
                     </div>
                 </div>
